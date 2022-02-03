@@ -1,0 +1,29 @@
+* {
+	box-sizing:border-box;
+}
+.menu {
+	padding:0;
+	margin: 0 0 30px 0;
+	list-style:none;
+	width:900px;
+	margin:0 auto;
+}
+.menu li {
+	display: inline-block;
+	padding: 8px 15px;
+	line-height: 100px;
+    float: left;
+}
+.main {
+	width:900px;
+	margin:0 auto;
+	border: 5px solid black;
+	clear:both;
+	padding: 5px 20px;
+}
+.footer {
+	width:900px;
+	margin:30px auto 0 auto;
+	background-color: #f4f4f4;
+	padding: 15px 10px;
+}
